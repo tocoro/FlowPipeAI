@@ -1,0 +1,5 @@
+{
+  "name": "FlowPipe AI",
+  "description": "A visual data processing tool inspired by Unix pipes. Use AI to generate node flows and inspect data at every step.",
+  "requestFramePermissions": []
+}
